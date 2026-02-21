@@ -1,0 +1,7 @@
+pyautogui
+pydirectinput
+opencv-python
+numpy
+requests
+python-dotenv
+pillow
